@@ -39,6 +39,6 @@ jobs:
         with:
           project: "pimtournaye-myagency-33"
           entrypoint: "./server.js"
-          root: "dist"
+          root: ""
           
           
